@@ -1,0 +1,5 @@
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_5_2.dir
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_4_4.dir
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_4_2.dir
