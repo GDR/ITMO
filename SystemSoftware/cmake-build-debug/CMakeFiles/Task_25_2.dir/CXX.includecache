@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gdr/Git/GDR/ITMO/SystemSoftware/Chapter_25/Task_25_2.cpp
+iostream
+-
+vector
+-
+

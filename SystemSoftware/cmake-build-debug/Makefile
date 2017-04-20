@@ -56,17 +56,6 @@ CMAKE_BINARY_DIR = /home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target rebuild_cache
-rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/opt/clion/bin/cmake/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : rebuild_cache
-
-# Special rule for the target rebuild_cache
-rebuild_cache/fast: rebuild_cache
-
-.PHONY : rebuild_cache/fast
-
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
@@ -77,6 +66,17 @@ edit_cache:
 edit_cache/fast: edit_cache
 
 .PHONY : edit_cache/fast
+
+# Special rule for the target rebuild_cache
+rebuild_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	/opt/clion/bin/cmake/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : rebuild_cache
+
+# Special rule for the target rebuild_cache
+rebuild_cache/fast: rebuild_cache
+
+.PHONY : rebuild_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -109,6 +109,32 @@ preinstall/fast:
 depend:
 	$(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
+
+#=============================================================================
+# Target rules for targets named Task_6_4
+
+# Build rule for target.
+Task_6_4: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Task_6_4
+.PHONY : Task_6_4
+
+# fast build rule for target.
+Task_6_4/fast:
+	$(MAKE) -f CMakeFiles/Task_6_4.dir/build.make CMakeFiles/Task_6_4.dir/build
+.PHONY : Task_6_4/fast
+
+#=============================================================================
+# Target rules for targets named Task_6_2
+
+# Build rule for target.
+Task_6_2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Task_6_2
+.PHONY : Task_6_2
+
+# fast build rule for target.
+Task_6_2/fast:
+	$(MAKE) -f CMakeFiles/Task_6_2.dir/build.make CMakeFiles/Task_6_2.dir/build
+.PHONY : Task_6_2/fast
 
 #=============================================================================
 # Target rules for targets named Task_5_2
@@ -148,6 +174,99 @@ Task_4_2: cmake_check_build_system
 Task_4_2/fast:
 	$(MAKE) -f CMakeFiles/Task_4_2.dir/build.make CMakeFiles/Task_4_2.dir/build
 .PHONY : Task_4_2/fast
+
+#=============================================================================
+# Target rules for targets named Task_3_6
+
+# Build rule for target.
+Task_3_6: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Task_3_6
+.PHONY : Task_3_6
+
+# fast build rule for target.
+Task_3_6/fast:
+	$(MAKE) -f CMakeFiles/Task_3_6.dir/build.make CMakeFiles/Task_3_6.dir/build
+.PHONY : Task_3_6/fast
+
+#=============================================================================
+# Target rules for targets named Task_6_6
+
+# Build rule for target.
+Task_6_6: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Task_6_6
+.PHONY : Task_6_6
+
+# fast build rule for target.
+Task_6_6/fast:
+	$(MAKE) -f CMakeFiles/Task_6_6.dir/build.make CMakeFiles/Task_6_6.dir/build
+.PHONY : Task_6_6/fast
+
+#=============================================================================
+# Target rules for targets named Task_25_2
+
+# Build rule for target.
+Task_25_2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Task_25_2
+.PHONY : Task_25_2
+
+# fast build rule for target.
+Task_25_2/fast:
+	$(MAKE) -f CMakeFiles/Task_25_2.dir/build.make CMakeFiles/Task_25_2.dir/build
+.PHONY : Task_25_2/fast
+
+Chapter_25/Task_25_2.o: Chapter_25/Task_25_2.cpp.o
+
+.PHONY : Chapter_25/Task_25_2.o
+
+# target to build an object file
+Chapter_25/Task_25_2.cpp.o:
+	$(MAKE) -f CMakeFiles/Task_25_2.dir/build.make CMakeFiles/Task_25_2.dir/Chapter_25/Task_25_2.cpp.o
+.PHONY : Chapter_25/Task_25_2.cpp.o
+
+Chapter_25/Task_25_2.i: Chapter_25/Task_25_2.cpp.i
+
+.PHONY : Chapter_25/Task_25_2.i
+
+# target to preprocess a source file
+Chapter_25/Task_25_2.cpp.i:
+	$(MAKE) -f CMakeFiles/Task_25_2.dir/build.make CMakeFiles/Task_25_2.dir/Chapter_25/Task_25_2.cpp.i
+.PHONY : Chapter_25/Task_25_2.cpp.i
+
+Chapter_25/Task_25_2.s: Chapter_25/Task_25_2.cpp.s
+
+.PHONY : Chapter_25/Task_25_2.s
+
+# target to generate assembly for a file
+Chapter_25/Task_25_2.cpp.s:
+	$(MAKE) -f CMakeFiles/Task_25_2.dir/build.make CMakeFiles/Task_25_2.dir/Chapter_25/Task_25_2.cpp.s
+.PHONY : Chapter_25/Task_25_2.cpp.s
+
+Chapter_3/Task_3_6.o: Chapter_3/Task_3_6.cpp.o
+
+.PHONY : Chapter_3/Task_3_6.o
+
+# target to build an object file
+Chapter_3/Task_3_6.cpp.o:
+	$(MAKE) -f CMakeFiles/Task_3_6.dir/build.make CMakeFiles/Task_3_6.dir/Chapter_3/Task_3_6.cpp.o
+.PHONY : Chapter_3/Task_3_6.cpp.o
+
+Chapter_3/Task_3_6.i: Chapter_3/Task_3_6.cpp.i
+
+.PHONY : Chapter_3/Task_3_6.i
+
+# target to preprocess a source file
+Chapter_3/Task_3_6.cpp.i:
+	$(MAKE) -f CMakeFiles/Task_3_6.dir/build.make CMakeFiles/Task_3_6.dir/Chapter_3/Task_3_6.cpp.i
+.PHONY : Chapter_3/Task_3_6.cpp.i
+
+Chapter_3/Task_3_6.s: Chapter_3/Task_3_6.cpp.s
+
+.PHONY : Chapter_3/Task_3_6.s
+
+# target to generate assembly for a file
+Chapter_3/Task_3_6.cpp.s:
+	$(MAKE) -f CMakeFiles/Task_3_6.dir/build.make CMakeFiles/Task_3_6.dir/Chapter_3/Task_3_6.cpp.s
+.PHONY : Chapter_3/Task_3_6.cpp.s
 
 Chapter_4/Task_4_2.o: Chapter_4/Task_4_2.cpp.o
 
@@ -230,17 +349,109 @@ Chapter_5/Task_5_2.cpp.s:
 	$(MAKE) -f CMakeFiles/Task_5_2.dir/build.make CMakeFiles/Task_5_2.dir/Chapter_5/Task_5_2.cpp.s
 .PHONY : Chapter_5/Task_5_2.cpp.s
 
+Chapter_6/Task_6_2.o: Chapter_6/Task_6_2.cpp.o
+
+.PHONY : Chapter_6/Task_6_2.o
+
+# target to build an object file
+Chapter_6/Task_6_2.cpp.o:
+	$(MAKE) -f CMakeFiles/Task_6_2.dir/build.make CMakeFiles/Task_6_2.dir/Chapter_6/Task_6_2.cpp.o
+.PHONY : Chapter_6/Task_6_2.cpp.o
+
+Chapter_6/Task_6_2.i: Chapter_6/Task_6_2.cpp.i
+
+.PHONY : Chapter_6/Task_6_2.i
+
+# target to preprocess a source file
+Chapter_6/Task_6_2.cpp.i:
+	$(MAKE) -f CMakeFiles/Task_6_2.dir/build.make CMakeFiles/Task_6_2.dir/Chapter_6/Task_6_2.cpp.i
+.PHONY : Chapter_6/Task_6_2.cpp.i
+
+Chapter_6/Task_6_2.s: Chapter_6/Task_6_2.cpp.s
+
+.PHONY : Chapter_6/Task_6_2.s
+
+# target to generate assembly for a file
+Chapter_6/Task_6_2.cpp.s:
+	$(MAKE) -f CMakeFiles/Task_6_2.dir/build.make CMakeFiles/Task_6_2.dir/Chapter_6/Task_6_2.cpp.s
+.PHONY : Chapter_6/Task_6_2.cpp.s
+
+Chapter_6/Task_6_4.o: Chapter_6/Task_6_4.cpp.o
+
+.PHONY : Chapter_6/Task_6_4.o
+
+# target to build an object file
+Chapter_6/Task_6_4.cpp.o:
+	$(MAKE) -f CMakeFiles/Task_6_4.dir/build.make CMakeFiles/Task_6_4.dir/Chapter_6/Task_6_4.cpp.o
+.PHONY : Chapter_6/Task_6_4.cpp.o
+
+Chapter_6/Task_6_4.i: Chapter_6/Task_6_4.cpp.i
+
+.PHONY : Chapter_6/Task_6_4.i
+
+# target to preprocess a source file
+Chapter_6/Task_6_4.cpp.i:
+	$(MAKE) -f CMakeFiles/Task_6_4.dir/build.make CMakeFiles/Task_6_4.dir/Chapter_6/Task_6_4.cpp.i
+.PHONY : Chapter_6/Task_6_4.cpp.i
+
+Chapter_6/Task_6_4.s: Chapter_6/Task_6_4.cpp.s
+
+.PHONY : Chapter_6/Task_6_4.s
+
+# target to generate assembly for a file
+Chapter_6/Task_6_4.cpp.s:
+	$(MAKE) -f CMakeFiles/Task_6_4.dir/build.make CMakeFiles/Task_6_4.dir/Chapter_6/Task_6_4.cpp.s
+.PHONY : Chapter_6/Task_6_4.cpp.s
+
+Chapter_6/Task_6_6.o: Chapter_6/Task_6_6.cpp.o
+
+.PHONY : Chapter_6/Task_6_6.o
+
+# target to build an object file
+Chapter_6/Task_6_6.cpp.o:
+	$(MAKE) -f CMakeFiles/Task_6_6.dir/build.make CMakeFiles/Task_6_6.dir/Chapter_6/Task_6_6.cpp.o
+.PHONY : Chapter_6/Task_6_6.cpp.o
+
+Chapter_6/Task_6_6.i: Chapter_6/Task_6_6.cpp.i
+
+.PHONY : Chapter_6/Task_6_6.i
+
+# target to preprocess a source file
+Chapter_6/Task_6_6.cpp.i:
+	$(MAKE) -f CMakeFiles/Task_6_6.dir/build.make CMakeFiles/Task_6_6.dir/Chapter_6/Task_6_6.cpp.i
+.PHONY : Chapter_6/Task_6_6.cpp.i
+
+Chapter_6/Task_6_6.s: Chapter_6/Task_6_6.cpp.s
+
+.PHONY : Chapter_6/Task_6_6.s
+
+# target to generate assembly for a file
+Chapter_6/Task_6_6.cpp.s:
+	$(MAKE) -f CMakeFiles/Task_6_6.dir/build.make CMakeFiles/Task_6_6.dir/Chapter_6/Task_6_6.cpp.s
+.PHONY : Chapter_6/Task_6_6.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... rebuild_cache"
+	@echo "... Task_6_4"
+	@echo "... Task_6_2"
 	@echo "... edit_cache"
 	@echo "... Task_5_2"
 	@echo "... Task_4_4"
 	@echo "... Task_4_2"
+	@echo "... rebuild_cache"
+	@echo "... Task_3_6"
+	@echo "... Task_6_6"
+	@echo "... Task_25_2"
+	@echo "... Chapter_25/Task_25_2.o"
+	@echo "... Chapter_25/Task_25_2.i"
+	@echo "... Chapter_25/Task_25_2.s"
+	@echo "... Chapter_3/Task_3_6.o"
+	@echo "... Chapter_3/Task_3_6.i"
+	@echo "... Chapter_3/Task_3_6.s"
 	@echo "... Chapter_4/Task_4_2.o"
 	@echo "... Chapter_4/Task_4_2.i"
 	@echo "... Chapter_4/Task_4_2.s"
@@ -250,6 +461,15 @@ help:
 	@echo "... Chapter_5/Task_5_2.o"
 	@echo "... Chapter_5/Task_5_2.i"
 	@echo "... Chapter_5/Task_5_2.s"
+	@echo "... Chapter_6/Task_6_2.o"
+	@echo "... Chapter_6/Task_6_2.i"
+	@echo "... Chapter_6/Task_6_2.s"
+	@echo "... Chapter_6/Task_6_4.o"
+	@echo "... Chapter_6/Task_6_4.i"
+	@echo "... Chapter_6/Task_6_4.s"
+	@echo "... Chapter_6/Task_6_6.o"
+	@echo "... Chapter_6/Task_6_6.i"
+	@echo "... Chapter_6/Task_6_6.s"
 .PHONY : help
 
 

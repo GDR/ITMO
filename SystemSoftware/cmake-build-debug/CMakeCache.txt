@@ -14,6 +14,12 @@
 # EXTERNAL cache entries
 ########################
 
+//Value Computed by CMake
+6_2_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+6_2_SOURCE_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware
+
 //Path to a program.
 CMAKE_AR:FILEPATH=/usr/bin/ar
 
@@ -121,7 +127,7 @@ CMAKE_OBJCOPY:FILEPATH=/usr/bin/objcopy
 CMAKE_OBJDUMP:FILEPATH=/usr/bin/objdump
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Task_5_2
+CMAKE_PROJECT_NAME:STATIC=Task_6_6
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -185,6 +191,18 @@ Project_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debu
 Project_SOURCE_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware
 
 //Value Computed by CMake
+Task_25_2_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_25_2_SOURCE_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_3_6_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_3_6_SOURCE_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
 Task_4_2_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
 
 //Value Computed by CMake
@@ -201,6 +219,24 @@ Task_5_2_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-deb
 
 //Value Computed by CMake
 Task_5_2_SOURCE_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_6_2_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_6_2_SOURCE_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_6_4_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_6_4_SOURCE_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_6_6_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_6_6_SOURCE_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware
 
 //Value Computed by CMake
 task_4_2_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug

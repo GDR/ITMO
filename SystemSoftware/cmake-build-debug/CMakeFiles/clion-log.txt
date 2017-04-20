@@ -1,7 +1,12 @@
 /opt/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/gdr/Git/GDR/ITMO/SystemSoftware
+-- Source Task_25_2
+-- Source Task_3_6
 -- Source Task_4_2
 -- Source Task_4_4
 -- Source Task_5_2
+-- Source Task_6_2
+-- Source Task_6_4
+-- Source Task_6_6
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
