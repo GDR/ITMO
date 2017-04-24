@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Task_6_8"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_6_4">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_6_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_6_4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_6_4/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_6_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_6_4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_6_2">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_6_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_6_2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_6_2/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_6_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_6_2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_5_4">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_5_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_5_4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_5_4/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_5_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_5_4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_6_8">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_6_8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_6_8"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_6_8/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_6_8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_6_8/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_4_4">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_4_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_4_4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_4_4/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_4_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_4_4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_6_12">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_6_12" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_6_12"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_6_12/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_6_12" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_6_12/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_11_2">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_11_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_11_2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_11_2/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_11_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_11_2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_4_2">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_4_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_4_2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_4_2/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_4_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_4_2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_3_6">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_3_6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_3_6"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_3_6/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_3_6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_3_6/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_15_2">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_15_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_15_2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_15_2/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_15_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_15_2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_3_12">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_3_12" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_3_12"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_3_12/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_3_12" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_3_12/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_3_10">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_3_10" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_3_10"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_3_10/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_3_10" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_3_10/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_5_2">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_5_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_5_2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_5_2/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_5_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_5_2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_26_2">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_26_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_26_2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_26_2/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_26_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_26_2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_6_6">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_6_6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_6_6"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_6_6/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_6_6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_6_6/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_25_2">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_25_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_25_2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_25_2/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_25_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_25_2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_22_4">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_22_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_22_4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_22_4/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_22_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_22_4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_3_8">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_3_8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_3_8"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_3_8/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_3_8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_3_8/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_22_2">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_22_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_22_2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_22_2/fast">
+				<Option output="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_22_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_22_2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_11/Task_11_2.cpp">
+			<Option target="Task_11_2"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_15/Task_15_2.cpp">
+			<Option target="Task_15_2"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_22/Task_22_2.cpp">
+			<Option target="Task_22_2"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_22/Task_22_4.cpp">
+			<Option target="Task_22_4"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_25/Task_25_2.cpp">
+			<Option target="Task_25_2"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_26/Task_26_2.cpp">
+			<Option target="Task_26_2"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_3/Task_3_10.cpp">
+			<Option target="Task_3_10"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_3/Task_3_12.cpp">
+			<Option target="Task_3_12"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_3/Task_3_6.cpp">
+			<Option target="Task_3_6"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_3/Task_3_8.cpp">
+			<Option target="Task_3_8"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_4/Task_4_2.cpp">
+			<Option target="Task_4_2"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_4/Task_4_4.cpp">
+			<Option target="Task_4_4"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_5/Task_5_2.cpp">
+			<Option target="Task_5_2"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_5/Task_5_4.cpp">
+			<Option target="Task_5_4"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_6/Task_6_12.cpp">
+			<Option target="Task_6_12"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_6/Task_6_2.cpp">
+			<Option target="Task_6_2"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_6/Task_6_4.cpp">
+			<Option target="Task_6_4"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_6/Task_6_6.cpp">
+			<Option target="Task_6_6"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_6/Task_6_8.cpp">
+			<Option target="Task_6_8"/>
+		</Unit>
+		<Unit filename="/Users/GDR/Git/GDR/ITMO/SystemSoftware/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,12 +1,23 @@
-/opt/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/gdr/Git/GDR/ITMO/SystemSoftware
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/GDR/Git/GDR/ITMO/SystemSoftware
+-- Source Task_11_2
+-- Source Task_15_2
+-- Source Task_22_2
+-- Source Task_22_4
 -- Source Task_25_2
+-- Source Task_26_2
+-- Source Task_3_10
+-- Source Task_3_12
 -- Source Task_3_6
+-- Source Task_3_8
 -- Source Task_4_2
 -- Source Task_4_4
 -- Source Task_5_2
+-- Source Task_5_4
+-- Source Task_6_12
 -- Source Task_6_2
 -- Source Task_6_4
 -- Source Task_6_6
+-- Source Task_6_8
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+-- Build files have been written to: /Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
