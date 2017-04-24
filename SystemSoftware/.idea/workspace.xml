@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
+<<<<<<< HEAD
       <config projectName="Task_9_4" targetName="Task_6_2" />
       <config projectName="Task_9_4" targetName="Task_4_4" />
       <config projectName="Task_9_4" targetName="Task_5_2" />
@@ -11,6 +12,29 @@
       <config projectName="Task_9_4" targetName="Task_6_4" />
       <config projectName="Task_9_4" targetName="Task_3_6" />
       <config projectName="Task_9_4" targetName="Task_9_4" />
+=======
+      <config projectName="Task_6_8" targetName="Task_22_4" />
+      <config projectName="Task_6_8" targetName="Task_11_2" />
+      <config projectName="Task_6_8" targetName="Task_25_2" />
+      <config projectName="Task_6_8" targetName="Task_22_2" />
+      <config projectName="Task_6_8" targetName="Task_28_2" />
+      <config projectName="Task_6_8" targetName="Task_15_2" />
+      <config projectName="Task_6_8" targetName="Task_29_2" />
+      <config projectName="Task_6_8" targetName="Task_26_2" />
+      <config projectName="Task_6_8" targetName="Task_3_12" />
+      <config projectName="Task_6_8" targetName="Task_6_8" />
+      <config projectName="Task_6_8" targetName="Task_3_10" />
+      <config projectName="Task_6_8" targetName="Task_4_4" />
+      <config projectName="Task_6_8" targetName="Task_6_2" />
+      <config projectName="Task_6_8" targetName="Task_3_6" />
+      <config projectName="Task_6_8" targetName="Task_5_4" />
+      <config projectName="Task_6_8" targetName="Task_4_2" />
+      <config projectName="Task_6_8" targetName="Task_5_2" />
+      <config projectName="Task_6_8" targetName="Task_6_12" />
+      <config projectName="Task_6_8" targetName="Task_6_6" />
+      <config projectName="Task_6_8" targetName="Task_6_4" />
+      <config projectName="Task_6_8" targetName="Task_3_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -34,13 +58,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="Screen Shot 2017-04-09 at 21.41.00.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_9/Screen Shot 2017-04-09 at 21.41.00.png">
+=======
+      <file leaf-file-name="Task_25.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Task_9_4.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_4.cpp">
           <provider selected="true" editor-type-id="text-editor">
@@ -65,23 +95,40 @@
         <entry file="file://$PROJECT_DIR$/Chapter_11/Screen Shot 2017-04-09 at 21.41.31.png">
           <provider selected="true" editor-type-id="images">
             <state />
+=======
+      <file leaf-file-name="Task_25_2.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+              <folding>
+                <element signature="e#84#96#0" expanded="true" />
+              </folding>
+            </state>
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Screen Shot 2017-04-09 at 21.43.11.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_15/Screen Shot 2017-04-09 at 21.43.11.png">
+      <file leaf-file-name="Task_26.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_26/Task_26.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Screen Shot 2017-04-09 at 21.41.47.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_12/Screen Shot 2017-04-09 at 21.41.47.png">
+=======
+      <file leaf-file-name="Task_28.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_28/Task_28.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Screen Shot 2017-04-09 at 21.42.15.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_13/Screen Shot 2017-04-09 at 21.42.15.png">
           <provider selected="true" editor-type-id="images">
@@ -91,11 +138,36 @@
       </file>
       <file leaf-file-name="Screen Shot 2017-04-09 at 21.42.49.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_14/Screen Shot 2017-04-09 at 21.42.49.png">
+=======
+      <file leaf-file-name="Task_28_4.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_28/Task_28_4.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task_28_2.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_28/Task_28_2.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task_29.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_29/Task_29.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Task_9_2.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_2.cpp">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,14 +176,35 @@
               <folding>
                 <element signature="e#37#56#0" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="Task_29_2.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter_29/Task_29_2.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+              <folding />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Screen Shot 2017-04-09 at 21.43.32.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_18/Screen Shot 2017-04-09 at 21.43.32.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="ctype.h" pinned="false" current-in-tab="false">
+        <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/usr/include/ctype.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="266" column="0" lean-forward="false" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task_29_4.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_29/Task_29_4.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -129,11 +222,28 @@
         <option value="$PROJECT_DIR$/Chapter_6/Task_6_4.cpp" />
         <option value="$PROJECT_DIR$/Chapter_6/Task_6_6.cpp" />
         <option value="$PROJECT_DIR$/Chapter_3/Task_3_6.cpp" />
+        <option value="$PROJECT_DIR$/Chapter_11/Task_11_2.cpp" />
+        <option value="$PROJECT_DIR$/Chapter_6/Task_6_8.cpp" />
+        <option value="$PROJECT_DIR$/Chapter_6/Task_6_12.cpp" />
+        <option value="$PROJECT_DIR$/Chapter_22/Task_22_2.cpp" />
+        <option value="$PROJECT_DIR$/Chapter_22/Task_22_4.cpp" />
+        <option value="$PROJECT_DIR$/Chapter_26/Task_26_2.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Chapter_5/Task_5_4.cpp" />
+        <option value="$PROJECT_DIR$/Chapter_3/Task_3_8.cpp" />
+        <option value="$PROJECT_DIR$/Chapter_3/Task_3_10.cpp" />
+        <option value="$PROJECT_DIR$/Chapter_3/Task_3_12.cpp" />
+        <option value="$PROJECT_DIR$/Chapter_15/Task_15_2.cpp" />
+        <option value="$PROJECT_DIR$/Chapter_28/Task_28_2.cpp" />
         <option value="$PROJECT_DIR$/Chapter_25/Task_25_2.cpp" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Chapter_9/Task_9_2.in" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Chapter_9/Task_9_2.cpp" />
         <option value="$PROJECT_DIR$/Chapter_9/Task_9_4.cpp" />
+=======
+        <option value="$PROJECT_DIR$/Chapter_29/Task_29_2.cpp" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
       </list>
     </option>
   </component>
@@ -151,8 +261,13 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
+<<<<<<< HEAD
     <option name="width" value="1600" />
     <option name="height" value="877" />
+=======
+    <option name="width" value="1920" />
+    <option name="height" value="1173" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -173,7 +288,11 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -183,7 +302,67 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemSoftware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cmake-build-debug" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task_6_8" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemSoftware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter_29" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task_6_8" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemSoftware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter_28" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task_6_8" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemSoftware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter_26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -197,7 +376,25 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemSoftware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter_24" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -211,7 +408,25 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemSoftware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter_22" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -225,7 +440,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -239,7 +458,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -253,7 +476,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -267,7 +494,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -281,7 +512,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -295,7 +530,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -309,7 +548,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -323,7 +566,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -337,7 +584,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -351,7 +602,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -365,7 +620,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -379,7 +638,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -393,7 +656,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -413,6 +680,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
     <property name="SearchEverywhereHistoryKey" value="cmake&#9;ACTION&#9;ActivateCMakeToolWindow&#10;cma&#9;ACTION&#9;ActivateCMakeToolWindow" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -432,7 +700,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Task_9_4">
+=======
+  <component name="RunManager" selected="Application.Task_29_2">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
     <configuration default="true" type="CLion_Remote" factoryName="GDB Remote Debug" remoteCommand="" symbolFile="" sysroot="">
       <method />
     </configuration>
@@ -619,6 +891,7 @@
       <envs />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="Task_3_6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_3_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_3_6">
       <envs />
       <method />
@@ -666,6 +939,115 @@
       <item index="7" class="java.lang.String" itemvalue="Application.Task_6_6" />
       <item index="8" class="java.lang.String" itemvalue="Application.Task_9_2" />
       <item index="9" class="java.lang.String" itemvalue="Application.Task_9_4" />
+=======
+    <configuration default="false" name="Task_11_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_11_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_11_2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_15_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_15_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_15_2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_22_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_22_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_22_2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_22_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_22_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_22_4">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_25_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_25_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_25_2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_26_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_26_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_26_2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_28_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_28_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_28_2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_29_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_29_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_29_2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_3_10" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_3_10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_3_10">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_3_12" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_3_12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_3_12">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_3_6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_3_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_3_6">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_3_8" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_3_8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_3_8">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_4_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_4_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_4_2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_4_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_4_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_4_4">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_5_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_5_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_5_2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_5_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_5_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_5_4">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_6_12" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_6_12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_6_12">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_6_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_6_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_6_2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_6_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_6_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_6_4">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_6_6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_6_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_6_6">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_6_8" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_6_8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_6_8">
+      <envs />
+      <method />
+    </configuration>
+    <list size="22">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Task_11_2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Task_15_2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Task_22_2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Task_22_4" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Task_25_2" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Task_26_2" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Task_28_2" />
+      <item index="8" class="java.lang.String" itemvalue="Application.Task_29_2" />
+      <item index="9" class="java.lang.String" itemvalue="Application.Task_3_10" />
+      <item index="10" class="java.lang.String" itemvalue="Application.Task_3_12" />
+      <item index="11" class="java.lang.String" itemvalue="Application.Task_3_6" />
+      <item index="12" class="java.lang.String" itemvalue="Application.Task_3_8" />
+      <item index="13" class="java.lang.String" itemvalue="Application.Task_4_2" />
+      <item index="14" class="java.lang.String" itemvalue="Application.Task_4_4" />
+      <item index="15" class="java.lang.String" itemvalue="Application.Task_5_2" />
+      <item index="16" class="java.lang.String" itemvalue="Application.Task_5_4" />
+      <item index="17" class="java.lang.String" itemvalue="Application.Task_6_12" />
+      <item index="18" class="java.lang.String" itemvalue="Application.Task_6_2" />
+      <item index="19" class="java.lang.String" itemvalue="Application.Task_6_4" />
+      <item index="20" class="java.lang.String" itemvalue="Application.Task_6_6" />
+      <item index="21" class="java.lang.String" itemvalue="Application.Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -684,14 +1066,19 @@
       <workItem from="1491774110642" duration="210000" />
       <workItem from="1491775000639" duration="6078000" />
       <workItem from="1492035061219" duration="238000" />
+<<<<<<< HEAD
       <workItem from="1492817975425" duration="42000" />
       <workItem from="1492818029590" duration="328000" />
       <workItem from="1492818371157" duration="1459000" />
       <workItem from="1492976329453" duration="1075000" />
+=======
+      <workItem from="1493034496166" duration="11663000" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="9430000" />
   </component>
   <component name="TodoView">
@@ -712,10 +1099,28 @@
       <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283208" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2932331" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="18189000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1173" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15885417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3013366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16213769" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19298245" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+=======
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39945653" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399757" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -739,11 +1144,12 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="9" />
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_15/Screen Shot 2017-04-09 at 21.43.11.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -768,76 +1174,14 @@
     <entry file="file://$PROJECT_DIR$/Chapter_3/Tasks_3.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_9/Screen Shot 2017-04-09 at 21.41.00.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_15/Screen Shot 2017-04-09 at 21.43.11.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_20/Screen Shot 2017-04-09 at 21.43.51.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_23/Screen Shot 2017-04-09 at 21.44.29.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp" />
-    <entry file="file://$PROJECT_DIR$/Chapter_3/Tasks_3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_4/Tasks_4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_5/Task_5_2.h" />
     <entry file="file://$PROJECT_DIR$/Chapter_4/Task_4_2.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="288">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_5/Task_5_2.h" />
-    <entry file="file://$PROJECT_DIR$/Chapter_4/Tasks_4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_6/Task_6_2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-        </state>
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_6/Task_6_4.cpp">
@@ -847,30 +1191,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_6/Task_6_6.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="28" column="41" lean-forward="false" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_6/Tasks_6.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_5/Task_5_2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_5/Tasks_5.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/Task_5_2">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3085">
@@ -878,24 +1198,249 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/include/c++/6.3.1/bits/vector.tcc" />
+    <entry file="file:///usr/include/c++/6.3.1/vector" />
+    <entry file="file://$PROJECT_DIR$/Chapter_6/Task_6_6.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="28" column="41" lean-forward="false" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_6/Task_6_8.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp" />
+    <entry file="file://$PROJECT_DIR$/Chapter_3/Tasks_3.png">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_5/Task_5_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_22/Task_22.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_22/Task_22_4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="78" column="21" lean-forward="false" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_5/Task_5_4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="e#53#72#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_4/Task_4_4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Chapter_5/Task_5_2.h" />
+    <entry file="file://$PROJECT_DIR$/Chapter_4/Tasks_4.png">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_6/Task_6_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_6/Task_6_12.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_11/Task_11_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_6/Tasks_6.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_24/Task_24.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_6.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="25" lean-forward="false" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_8.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Chapter_6/Task_6_6.cpp">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_10.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_12.h">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_12.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_11/Task_11.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_12/Task_12.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_13/Task_13.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Task_5_2">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_14/Task_14.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_15/Task_15_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_26/Task_26_2.cpp">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_4/Tasks_4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_5/Tasks_5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_3/Tasks_3.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_20/Screen Shot 2017-04-09 at 21.43.51.png">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_7/Tasks_7.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file:///usr/include/c++/6.3.1/bits/vector.tcc" />
     <entry file="file:///usr/include/c++/6.3.1/vector" />
     <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp" />
     <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25.png">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_15/Task_15.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_6.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1000">
@@ -913,15 +1458,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_7/Tasks.png">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_18/Task_18.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_23/Screen Shot 2017-04-09 at 21.44.29.png">
+    <entry file="file://$PROJECT_DIR$/Chapter_20/Task_20.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_4/Task_4_2.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -941,17 +1490,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Task_9_2.in">
       <provider selected="true" editor-type-id="text-editor">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_23/Task_23.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_22/Task_22_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding>
+            <element signature="e#84#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_26/Task_26.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_28/Task_28_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_28/Task_28.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_28/Task_28_4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/Task_9_2.in">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_29/Task_29_4.cpp">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -986,10 +1590,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_18/Screen Shot 2017-04-09 at 21.43.32.png">
+=======
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/usr/include/ctype.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="266" column="0" lean-forward="false" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_29/Task_29.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_4.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1020,6 +1639,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_29/Task_29_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
           <folding />
         </state>
       </provider>

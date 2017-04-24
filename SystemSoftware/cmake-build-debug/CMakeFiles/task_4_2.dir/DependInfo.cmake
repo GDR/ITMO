@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/gdr/Git/GDR/ITMO/SystemSoftware/Chapter_4/Task_4_2.cpp" "/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/task_4_2.dir/Chapter_4/Task_4_2.cpp.o"
+  "/Users/GDR/Git/GDR/ITMO/SystemSoftware/Chapter_4/Task_4_2.cpp" "/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_4_2.dir/Chapter_4/Task_4_2.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
