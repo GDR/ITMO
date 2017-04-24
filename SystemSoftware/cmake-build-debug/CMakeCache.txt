@@ -226,6 +226,18 @@ Task_26_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-d
 Task_26_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
 
 //Value Computed by CMake
+Task_28_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_28_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_29_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_29_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
 Task_3_10_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
 
 //Value Computed by CMake

@@ -24,28 +24,29 @@ public:
         return prev;
     }
     void addNext(T value) {
-        Node<T> node = new Node<T>(value);
-        node.prev = this;
-        node.next = this->next;
+        Node<T>* node = new Node<T>(value);
+        node->prev = this;
+        node->next = this->next;
         if (this->next != NULL) {
-            this->next->prev = &node;
+            this->next->prev = node;
         }
-        this->next = &node;
+        this->next = node;
     }
 
     void addPrev(T value) {
-        Node<T> node = new Node<T>(value);
-        node.next = this;
-        node.prev = this->prev;
+        Node<T>* node = new Node<T>(value);
+        node->next = this;
+        node->prev = this->prev;
         if (this->prev != NULL) {
-            this->prev->next = &node;
+            this->prev->next = node;
         }
-        this->prev = &node;
+        this->prev = node;
     }
 };
 
 int main() {
-    Node<int>* list = new Node<int>(2);
+    Node<int>* list;
+    list  = new Node<int>(2);
     list->addNext(3);
     list->addPrev(1);
     return 0;
