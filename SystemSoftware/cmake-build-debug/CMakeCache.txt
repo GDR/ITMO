@@ -127,7 +127,7 @@ CMAKE_OBJCOPY:FILEPATH=/usr/bin/objcopy
 CMAKE_OBJDUMP:FILEPATH=/usr/bin/objdump
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Task_6_6
+CMAKE_PROJECT_NAME:STATIC=Task_9_4
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -237,6 +237,18 @@ Task_6_6_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-deb
 
 //Value Computed by CMake
 Task_6_6_SOURCE_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_9_2_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_9_2_SOURCE_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_9_4_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_9_4_SOURCE_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware
 
 //Value Computed by CMake
 task_4_2_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug

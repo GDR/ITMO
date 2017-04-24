@@ -2,14 +2,15 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="Task_6_6" targetName="Task_4_2" />
-      <config projectName="Task_6_6" targetName="Task_3_6" />
-      <config projectName="Task_6_6" targetName="Task_5_2" />
-      <config projectName="Task_6_6" targetName="Task_25_2" />
-      <config projectName="Task_6_6" targetName="Task_6_6" />
-      <config projectName="Task_6_6" targetName="Task_6_4" />
-      <config projectName="Task_6_6" targetName="Task_4_4" />
-      <config projectName="Task_6_6" targetName="Task_6_2" />
+      <config projectName="Task_9_4" targetName="Task_6_2" />
+      <config projectName="Task_9_4" targetName="Task_4_4" />
+      <config projectName="Task_9_4" targetName="Task_5_2" />
+      <config projectName="Task_9_4" targetName="Task_4_2" />
+      <config projectName="Task_9_4" targetName="Task_9_2" />
+      <config projectName="Task_9_4" targetName="Task_6_6" />
+      <config projectName="Task_9_4" targetName="Task_6_4" />
+      <config projectName="Task_9_4" targetName="Task_3_6" />
+      <config projectName="Task_9_4" targetName="Task_9_4" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -28,17 +29,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="task_4_2" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Tasks_3.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_3/Tasks_3.png">
+      <file leaf-file-name="Screen Shot 2017-04-09 at 21.41.00.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_9/Screen Shot 2017-04-09 at 21.41.00.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Screen Shot 2017-04-09 at 21.41.00.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_9/Screen Shot 2017-04-09 at 21.41.00.png">
+      <file leaf-file-name="Task_9_4.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_4.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Screen Shot 2017-04-09 at 21.41.31.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_11/Screen Shot 2017-04-09 at 21.41.31.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -51,35 +75,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Screen Shot 2017-04-09 at 21.43.51.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_20/Screen Shot 2017-04-09 at 21.43.51.png">
+      <file leaf-file-name="Screen Shot 2017-04-09 at 21.41.47.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_12/Screen Shot 2017-04-09 at 21.41.47.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Screen Shot 2017-04-09 at 21.44.29.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_23/Screen Shot 2017-04-09 at 21.44.29.png">
+      <file leaf-file-name="Screen Shot 2017-04-09 at 21.42.15.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_13/Screen Shot 2017-04-09 at 21.42.15.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task_25.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25.png">
+      <file leaf-file-name="Screen Shot 2017-04-09 at 21.42.49.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_14/Screen Shot 2017-04-09 at 21.42.49.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task_25_2.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp">
+      <file leaf-file-name="Task_9_2.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_2.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="240">
+              <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
               <folding>
-                <element signature="e#36#55#0" expanded="true" />
-                <element signature="e#84#96#0" expanded="true" />
+                <element signature="e#37#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,7 +121,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Chapter_4/4.2.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Chapter_5/Task_5_2.cpp" />
         <option value="$PROJECT_DIR$/Chapter_4/Task_4_2.cpp" />
         <option value="$PROJECT_DIR$/Chapter_4/Task_4_4.cpp" />
@@ -108,20 +130,29 @@
         <option value="$PROJECT_DIR$/Chapter_6/Task_6_6.cpp" />
         <option value="$PROJECT_DIR$/Chapter_3/Task_3_6.cpp" />
         <option value="$PROJECT_DIR$/Chapter_25/Task_25_2.cpp" />
+        <option value="$PROJECT_DIR$/Chapter_9/Task_9_2.in" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Chapter_9/Task_9_2.cpp" />
+        <option value="$PROJECT_DIR$/Chapter_9/Task_9_4.cpp" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="-1" />
-    <option name="width" value="1602" />
-    <option name="height" value="902" />
+    <option name="y" value="23" />
+    <option name="width" value="1600" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -142,7 +173,7 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task_6_6" />
+              <option name="myItemId" value="Task_9_4" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -152,7 +183,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task_6_6" />
+              <option name="myItemId" value="Task_9_4" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -166,7 +197,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task_6_6" />
+              <option name="myItemId" value="Task_9_4" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -180,7 +211,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task_6_6" />
+              <option name="myItemId" value="Task_9_4" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -194,7 +225,21 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task_6_6" />
+              <option name="myItemId" value="Task_9_4" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemSoftware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter_18" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task_9_4" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -208,7 +253,63 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task_6_6" />
+              <option name="myItemId" value="Task_9_4" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemSoftware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter_14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task_9_4" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemSoftware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter_13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task_9_4" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemSoftware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter_12" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task_9_4" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemSoftware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter_11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task_9_4" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -222,7 +323,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task_6_6" />
+              <option name="myItemId" value="Task_9_4" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -236,7 +337,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task_6_6" />
+              <option name="myItemId" value="Task_9_4" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -250,7 +351,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task_6_6" />
+              <option name="myItemId" value="Task_9_4" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -264,7 +365,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task_6_6" />
+              <option name="myItemId" value="Task_9_4" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -278,7 +379,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task_6_6" />
+              <option name="myItemId" value="Task_9_4" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -292,7 +393,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task_6_6" />
+              <option name="myItemId" value="Task_9_4" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -310,8 +411,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
     <property name="SearchEverywhereHistoryKey" value="cmake&#9;ACTION&#9;ActivateCMakeToolWindow&#10;cma&#9;ACTION&#9;ActivateCMakeToolWindow" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -325,7 +432,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task_25_2">
+  <component name="RunManager" selected="Application.Task_9_4">
     <configuration default="true" type="CLion_Remote" factoryName="GDB Remote Debug" remoteCommand="" symbolFile="" sysroot="">
       <method />
     </configuration>
@@ -512,48 +619,53 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Task_25_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_6" TARGET_NAME="Task_25_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_6" RUN_TARGET_NAME="Task_25_2">
+    <configuration default="false" name="Task_3_6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_3_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_3_6">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Task_3_6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_6" TARGET_NAME="Task_3_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_6" RUN_TARGET_NAME="Task_3_6">
+    <configuration default="false" name="Task_4_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_4_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_4_2">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Task_4_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_6" TARGET_NAME="Task_4_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_6" RUN_TARGET_NAME="Task_4_2">
+    <configuration default="false" name="Task_4_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_4_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_4_4">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Task_4_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_6" TARGET_NAME="Task_4_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_6" RUN_TARGET_NAME="Task_4_4">
+    <configuration default="false" name="Task_5_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_5_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_5_2">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Task_5_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_6" TARGET_NAME="Task_5_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_6" RUN_TARGET_NAME="Task_5_2">
+    <configuration default="false" name="Task_6_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_6_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_6_2">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Task_6_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_6" TARGET_NAME="Task_6_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_6" RUN_TARGET_NAME="Task_6_2">
+    <configuration default="false" name="Task_6_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_6_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_6_4">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Task_6_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_6" TARGET_NAME="Task_6_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_6" RUN_TARGET_NAME="Task_6_4">
+    <configuration default="false" name="Task_6_6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_6_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_6_6">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Task_6_6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_6" TARGET_NAME="Task_6_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_6" RUN_TARGET_NAME="Task_6_6">
+    <configuration default="false" name="Task_9_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_9_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_9_2">
       <envs />
       <method />
     </configuration>
-    <list size="9">
+    <configuration default="false" name="Task_9_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_9_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_9_4">
+      <envs />
+      <method />
+    </configuration>
+    <list size="10">
       <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Task_25_2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Task_3_6" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Task_4_2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Task_4_4" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Task_5_2" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Task_6_2" />
-      <item index="7" class="java.lang.String" itemvalue="Application.Task_6_4" />
-      <item index="8" class="java.lang.String" itemvalue="Application.Task_6_6" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Task_3_6" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Task_4_2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Task_4_4" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Task_5_2" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Task_6_2" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Task_6_4" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Task_6_6" />
+      <item index="8" class="java.lang.String" itemvalue="Application.Task_9_2" />
+      <item index="9" class="java.lang.String" itemvalue="Application.Task_9_4" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -572,28 +684,42 @@
       <workItem from="1491774110642" duration="210000" />
       <workItem from="1491775000639" duration="6078000" />
       <workItem from="1492035061219" duration="238000" />
+      <workItem from="1492817975425" duration="42000" />
+      <workItem from="1492818029590" duration="328000" />
+      <workItem from="1492818371157" duration="1459000" />
+      <workItem from="1492976329453" duration="1075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6526000" />
+    <option name="totallyTimeSpent" value="9430000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-1" width="1602" height="902" extended-state="0" />
+    <frame x="0" y="23" width="1600" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.218125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2008761" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3013366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283208" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2932331" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19319563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19298245" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399757" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399757" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928312" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -610,13 +736,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp</url>
-          <line>50</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
@@ -625,6 +744,27 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Chapter_15/Screen Shot 2017-04-09 at 21.43.11.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_20/Screen Shot 2017-04-09 at 21.43.51.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_23/Screen Shot 2017-04-09 at 21.44.29.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp" />
     <entry file="file://$PROJECT_DIR$/Chapter_3/Tasks_3.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -655,17 +795,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="e#36#55#0" expanded="true" />
-            <element signature="e#84#96#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp" />
     <entry file="file://$PROJECT_DIR$/Chapter_3/Tasks_3.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -698,27 +828,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_5/Task_5_2.h" />
-    <entry file="file://$PROJECT_DIR$/Chapter_4/Task_4_2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_4/Task_4_4.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_4/Tasks_4.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -736,11 +845,6 @@
         <state relative-caret-position="488">
           <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_7/Tasks.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_6/Task_6_6.cpp">
@@ -767,13 +871,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_6.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="32" column="25" lean-forward="false" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/Task_5_2">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3085">
@@ -786,17 +883,36 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_9/Screen Shot 2017-04-09 at 21.41.00.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_15/Screen Shot 2017-04-09 at 21.43.11.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_20/Screen Shot 2017-04-09 at 21.43.51.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/6.3.1/bits/vector.tcc" />
+    <entry file="file:///usr/include/c++/6.3.1/vector" />
+    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp" />
+    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_6.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="50" column="43" lean-forward="false" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_4/Task_4_4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_7/Tasks.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -806,23 +922,67 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25.png">
+    <entry file="file://$PROJECT_DIR$/Chapter_4/Task_4_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#37#56#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_2.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task_9_2.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Task_9_2.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#37#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_12/Screen Shot 2017-04-09 at 21.41.47.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file:///usr/include/c++/6.3.1/bits/vector.tcc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2052">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/Chapter_13/Screen Shot 2017-04-09 at 21.42.15.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file:///usr/include/c++/6.3.1/vector">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/Chapter_14/Screen Shot 2017-04-09 at 21.42.49.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_15/Screen Shot 2017-04-09 at 21.43.11.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_18/Screen Shot 2017-04-09 at 21.43.32.png">
@@ -830,14 +990,37 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp">
+    <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_4.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="e#36#55#0" expanded="true" />
-            <element signature="e#84#96#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_11/Screen Shot 2017-04-09 at 21.41.31.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_9/Screen Shot 2017-04-09 at 21.41.00.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>

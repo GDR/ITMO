@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6"/>
 	<Project>
-		<Option title="Task_6_6"/>
+		<Option title="Task_9_2"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
 		<Option virtualFolders="CMake Files\;"/>
@@ -12,6 +12,50 @@
 				<Option type="4"/>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j8 -f &quot;/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_9_2">
+				<Option output="/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_9_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/../../../../include/c++/6.3.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_9_2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task_9_2/fast">
+				<Option output="/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Task_9_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/../../../../include/c++/6.3.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/../../../../include/c++/6.3.1/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task_9_2/fast"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -366,6 +410,12 @@
 		</Unit>
 		<Unit filename="/home/gdr/Git/GDR/ITMO/SystemSoftware/Chapter_6/Task_6_6.cpp">
 			<Option target="Task_6_6"/>
+		</Unit>
+		<Unit filename="/home/gdr/Git/GDR/ITMO/SystemSoftware/Chapter_9/Task_9_2.cpp">
+			<Option target="Task_9_2"/>
+		</Unit>
+		<Unit filename="/home/gdr/Git/GDR/ITMO/SystemSoftware/Chapter_9/Task_9_2.in">
+			<Option target="Task_9_2"/>
 		</Unit>
 		<Unit filename="/home/gdr/Git/GDR/ITMO/SystemSoftware/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
