@@ -10,28 +10,26 @@ int main() {
     string str;
     getline(cin, str);
 
-    string result = "";
-    bool was_first_word = false;
-    bool was_space = true;
+    string result;
+    string temp;
+    int word_count = 0;
+    int special_word_count = 0;
+    str += " ";
     for (int i = 0; i < str.size(); i++) {
         if (isspace(str[i])) {
-            if (was_first_word && !was_space) {
-                result += str[i];
-                was_space = true;
+            if (!temp.empty() && temp.size() > 0) {
+                word_count++;
+                if (temp[0] == temp[temp.size() - 1])
+                    special_word_count++;
+                result += temp + " ";
+                temp = "";
             }
         } else {
-            was_first_word = true;
-            was_space = false;
-            result += str[i];
+            temp += str[i];
         }
     }
-
-    int word_count = 0;
-    for (int i = 0; i < result.size(); i++) {
-        if (isspace(result[i]))
-            word_count++;
-    }
-    if (isspace(result[result.size()])) {
-        word_count--;
-    }
+    cout << '\n';
+    cout << result << '\n';
+    cout << "Word count: " << word_count << '\n';
+    cout << "Words with the same first and last letter: " << special_word_count << '\n';
 }
