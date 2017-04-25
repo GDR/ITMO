@@ -1,0 +1,37 @@
+<<<<<<< HEAD
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_4_2.dir
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_4_4.dir
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_5_2.dir
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_6_2.dir
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_6_4.dir
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_3_6.dir
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_6_6.dir
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_9_4.dir
+/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_9_2.dir
+=======
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_6_4.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_6_2.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_5_4.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_6_8.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_4_4.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_3_8.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_3_6.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_3_10.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_15_2.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_3_12.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_29_2.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_28_2.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_5_2.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_26_2.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_6_6.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_25_2.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_22_4.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_22_2.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_6_12.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_4_2.dir
+/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug/CMakeFiles/Task_11_2.dir
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595

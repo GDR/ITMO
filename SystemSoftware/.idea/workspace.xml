@@ -2,6 +2,17 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
+<<<<<<< HEAD
+      <config projectName="Task_9_4" targetName="Task_6_2" />
+      <config projectName="Task_9_4" targetName="Task_4_4" />
+      <config projectName="Task_9_4" targetName="Task_5_2" />
+      <config projectName="Task_9_4" targetName="Task_4_2" />
+      <config projectName="Task_9_4" targetName="Task_9_2" />
+      <config projectName="Task_9_4" targetName="Task_6_6" />
+      <config projectName="Task_9_4" targetName="Task_6_4" />
+      <config projectName="Task_9_4" targetName="Task_3_6" />
+      <config projectName="Task_9_4" targetName="Task_9_4" />
+=======
       <config projectName="Task_6_8" targetName="Task_22_4" />
       <config projectName="Task_6_8" targetName="Task_11_2" />
       <config projectName="Task_6_8" targetName="Task_25_2" />
@@ -23,8 +34,12 @@
       <config projectName="Task_6_8" targetName="Task_6_6" />
       <config projectName="Task_6_8" targetName="Task_6_4" />
       <config projectName="Task_6_8" targetName="Task_3_8" />
+<<<<<<< HEAD
       <config projectName="Task_6_8" targetName="Task_28_4" />
       <config projectName="Task_6_8" targetName="Task_29_4" />
+=======
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -43,27 +58,107 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="task_4_2" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="Tasks_3.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_3/Tasks_3.png">
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="Screen Shot 2017-04-09 at 21.41.00.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_9/Screen Shot 2017-04-09 at 21.41.00.png">
+=======
+      <file leaf-file-name="Task_25.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Task_3_2.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_2.cpp">
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="Task_9_4.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_4.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="169">
+              <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Screen Shot 2017-04-09 at 21.41.31.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_11/Screen Shot 2017-04-09 at 21.41.31.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+=======
+      <file leaf-file-name="Task_25_2.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp">
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="Task_3_4.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_4.cpp">
+=======
+      <file leaf-file-name="Task_26.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_26/Task_26.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file leaf-file-name="Screen Shot 2017-04-09 at 21.41.47.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_12/Screen Shot 2017-04-09 at 21.41.47.png">
+=======
+      <file leaf-file-name="Task_28.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_28/Task_28.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file leaf-file-name="Screen Shot 2017-04-09 at 21.42.15.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_13/Screen Shot 2017-04-09 at 21.42.15.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Screen Shot 2017-04-09 at 21.42.49.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_14/Screen Shot 2017-04-09 at 21.42.49.png">
+=======
+      <file leaf-file-name="Task_28_4.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_28/Task_28_4.cpp">
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -82,19 +177,41 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Tasks_4.png" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter_4/Tasks_4.png">
+=======
+      <file leaf-file-name="Task_29.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_29/Task_29.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Task_3_16.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_16.cpp">
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="Task_9_2.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_2.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+              <folding>
+                <element signature="e#37#56#0" expanded="true" />
+              </folding>
+=======
+      <file leaf-file-name="Task_29_2.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter_29/Task_29_2.cpp">
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
             </state>
           </provider>
         </entry>
@@ -157,23 +274,49 @@
         <option value="$PROJECT_DIR$/Chapter_3/Task_3_12.cpp" />
         <option value="$PROJECT_DIR$/Chapter_15/Task_15_2.cpp" />
         <option value="$PROJECT_DIR$/Chapter_25/Task_25_2.cpp" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Chapter_29/Task_29_4.cpp" />
         <option value="$PROJECT_DIR$/Chapter_29/Task_29_2.cpp" />
         <option value="$PROJECT_DIR$/Chapter_28/Task_28_2.cpp" />
         <option value="$PROJECT_DIR$/Chapter_29/Task_29_6.cpp" />
+=======
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/Chapter_9/Task_9_2.in" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Chapter_9/Task_9_2.cpp" />
+        <option value="$PROJECT_DIR$/Chapter_9/Task_9_4.cpp" />
+=======
+        <option value="$PROJECT_DIR$/Chapter_29/Task_29_2.cpp" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="y" value="24" />
+=======
+    <option name="y" value="23" />
+<<<<<<< HEAD
+    <option name="width" value="1600" />
+    <option name="height" value="877" />
+=======
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
     <option name="width" value="1920" />
     <option name="height" value="1173" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -194,7 +337,11 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
               <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -204,6 +351,9 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
               <option name="myItemId" value="Task_6_8" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
@@ -240,6 +390,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+=======
+              <option name="myItemId" value="Chapter_26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemSoftware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter_25" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemSoftware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
               <option name="myItemId" value="Chapter_24" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -247,6 +432,7 @@
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -260,6 +446,9 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
               <option name="myItemId" value="Task_6_8" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
@@ -268,13 +457,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter_20" />
+<<<<<<< HEAD
+=======
+              <option name="myItemId" value="Chapter_22" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemSoftware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
+              <option name="myItemId" value="Chapter_20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -288,7 +499,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
               <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -302,7 +517,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
               <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -316,7 +535,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
               <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -330,7 +553,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
               <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -344,7 +571,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
               <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -358,7 +589,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
               <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -372,7 +607,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
               <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -386,7 +625,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
               <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -400,7 +643,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
               <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -414,7 +661,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
               <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -422,13 +673,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+=======
+              <option name="myItemId" value="Chapter_4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
+              <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SystemSoftware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
               <option name="myItemId" value="Chapter_3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="Task_9_4" />
+=======
               <option name="myItemId" value="Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -446,9 +722,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
     <property name="SearchEverywhereHistoryKey" value="cmake&#9;ACTION&#9;ActivateCMakeToolWindow&#10;cma&#9;ACTION&#9;ActivateCMakeToolWindow" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -462,7 +744,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Application.Task_9_4">
+=======
   <component name="RunManager" selected="Application.Task_29_2">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
     <configuration default="true" type="CLion_Remote" factoryName="GDB Remote Debug" remoteCommand="" symbolFile="" sysroot="">
       <method />
     </configuration>
@@ -649,6 +935,55 @@
       <envs />
       <method />
     </configuration>
+<<<<<<< HEAD
+    <configuration default="false" name="Task_3_6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_3_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_3_6">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_4_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_4_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_4_2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_4_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_4_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_4_4">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_5_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_5_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_5_2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_6_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_6_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_6_2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_6_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_6_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_6_4">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_6_6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_6_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_6_6">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_9_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_9_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_9_2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task_9_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9_4" TARGET_NAME="Task_9_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9_4" RUN_TARGET_NAME="Task_9_4">
+      <envs />
+      <method />
+    </configuration>
+    <list size="10">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Task_3_6" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Task_4_2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Task_4_4" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Task_5_2" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Task_6_2" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Task_6_4" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Task_6_6" />
+      <item index="8" class="java.lang.String" itemvalue="Application.Task_9_2" />
+      <item index="9" class="java.lang.String" itemvalue="Application.Task_9_4" />
+=======
     <configuration default="false" name="Task_11_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_6_8" TARGET_NAME="Task_11_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_6_8" RUN_TARGET_NAME="Task_11_2">
       <envs />
       <method />
@@ -750,6 +1085,7 @@
       <item index="5" class="java.lang.String" itemvalue="Application.Task_25_2" />
       <item index="6" class="java.lang.String" itemvalue="Application.Task_26_2" />
       <item index="7" class="java.lang.String" itemvalue="Application.Task_28_2" />
+<<<<<<< HEAD
       <item index="8" class="java.lang.String" itemvalue="Application.Task_28_4" />
       <item index="9" class="java.lang.String" itemvalue="Application.Task_29_2" />
       <item index="10" class="java.lang.String" itemvalue="Application.Task_29_4" />
@@ -766,6 +1102,23 @@
       <item index="21" class="java.lang.String" itemvalue="Application.Task_6_4" />
       <item index="22" class="java.lang.String" itemvalue="Application.Task_6_6" />
       <item index="23" class="java.lang.String" itemvalue="Application.Task_6_8" />
+=======
+      <item index="8" class="java.lang.String" itemvalue="Application.Task_29_2" />
+      <item index="9" class="java.lang.String" itemvalue="Application.Task_3_10" />
+      <item index="10" class="java.lang.String" itemvalue="Application.Task_3_12" />
+      <item index="11" class="java.lang.String" itemvalue="Application.Task_3_6" />
+      <item index="12" class="java.lang.String" itemvalue="Application.Task_3_8" />
+      <item index="13" class="java.lang.String" itemvalue="Application.Task_4_2" />
+      <item index="14" class="java.lang.String" itemvalue="Application.Task_4_4" />
+      <item index="15" class="java.lang.String" itemvalue="Application.Task_5_2" />
+      <item index="16" class="java.lang.String" itemvalue="Application.Task_5_4" />
+      <item index="17" class="java.lang.String" itemvalue="Application.Task_6_12" />
+      <item index="18" class="java.lang.String" itemvalue="Application.Task_6_2" />
+      <item index="19" class="java.lang.String" itemvalue="Application.Task_6_4" />
+      <item index="20" class="java.lang.String" itemvalue="Application.Task_6_6" />
+      <item index="21" class="java.lang.String" itemvalue="Application.Task_6_8" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -784,12 +1137,49 @@
       <workItem from="1491774110642" duration="210000" />
       <workItem from="1491775000639" duration="6078000" />
       <workItem from="1492035061219" duration="238000" />
+<<<<<<< HEAD
       <workItem from="1493034496166" duration="18446000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1492817975425" duration="42000" />
+      <workItem from="1492818029590" duration="328000" />
+      <workItem from="1492818371157" duration="1459000" />
+      <workItem from="1492976329453" duration="1075000" />
+=======
+      <workItem from="1493034496166" duration="11663000" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="24972000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="9430000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1600" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2008761" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283208" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2932331" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="18189000" />
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1173" extended-state="6" />
@@ -798,13 +1188,28 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789856" sideWeight="0.47916666" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3013366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16213769" sideWeight="0.5208333" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16213769" sideWeight="0.47916666" order="2" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16213769" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19298245" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39945653" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
+=======
+<<<<<<< HEAD
+=======
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39945653" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399757" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -831,12 +1236,44 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_15/Task_15_4.cpp">
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Chapter_15/Screen Shot 2017-04-09 at 21.43.11.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_20/Screen Shot 2017-04-09 at 21.43.51.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_23/Screen Shot 2017-04-09 at 21.44.29.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp" />
+    <entry file="file://$PROJECT_DIR$/Chapter_3/Tasks_3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_5/Task_5_2.h" />
+    <entry file="file://$PROJECT_DIR$/Chapter_4/Task_4_2.cpp">
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_15/Task_15_6.cpp">
@@ -884,7 +1321,15 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_14/Task_14_10.cpp">
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp" />
+    <entry file="file://$PROJECT_DIR$/Chapter_3/Tasks_3.png">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_5/Task_5_2.cpp">
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -892,12 +1337,19 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_14/Task_14_12.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_22/Task_22.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+      <provider selected="true" editor-type-id="images">
+        <state />
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_13/Task_13_2.cpp">
@@ -942,7 +1394,15 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_11/Task_11_4.cpp">
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Chapter_5/Task_5_2.h" />
+    <entry file="file://$PROJECT_DIR$/Chapter_4/Tasks_4.png">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_6/Task_6_2.cpp">
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -966,12 +1426,19 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_11/Task_11_10.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_6/Tasks_6.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+      <provider selected="true" editor-type-id="images">
+        <state />
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_11/Task_11.png">
@@ -995,7 +1462,14 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_6.cpp">
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Chapter_6/Task_6_6.cpp">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_10.cpp">
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1003,7 +1477,12 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_8.cpp">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_12.h">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1045,7 +1524,14 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_6/Task_6.png">
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Task_5_2">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_14/Task_14.png">
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1058,7 +1544,12 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_5/Task_5_6.cpp">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_26/Task_26_2.cpp">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1082,11 +1573,19 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_5/Tasks_5.png">
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Chapter_20/Screen Shot 2017-04-09 at 21.43.51.png">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_7/Tasks_7.png">
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_26/Task_26_2.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1096,11 +1595,51 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_26/Task_26.png">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file:///usr/include/c++/6.3.1/bits/vector.tcc" />
+    <entry file="file:///usr/include/c++/6.3.1/vector" />
+    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25_2.cpp" />
     <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25.png">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_15/Task_15.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Chapter_25/Task_25.png">
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_6.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="50" column="43" lean-forward="false" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_4/Task_4_4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_7/Tasks.png">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_18/Task_18.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1110,12 +1649,39 @@
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_22/Task_22_4.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Chapter_4/Task_4_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#37#56#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_2.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task_9_2.in">
+      <provider selected="true" editor-type-id="text-editor">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_23/Task_23.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_22/Task_22_2.cpp">
@@ -1151,17 +1717,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_2.cpp">
       <provider selected="true" editor-type-id="text-editor">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_4.cpp">
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Task_9_2.in">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_29/Task_29_4.cpp">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+<<<<<<< HEAD
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#37#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_12/Screen Shot 2017-04-09 at 21.41.47.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_13/Screen Shot 2017-04-09 at 21.42.15.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_14/Screen Shot 2017-04-09 at 21.42.49.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_15/Screen Shot 2017-04-09 at 21.43.11.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_18/Screen Shot 2017-04-09 at 21.43.32.png">
+=======
         </state>
       </provider>
     </entry>
@@ -1173,15 +1784,60 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_3/Tasks_3.png">
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_29/Task_29.png">
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_4.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_11/Screen Shot 2017-04-09 at 21.41.31.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_9/Screen Shot 2017-04-09 at 21.41.00.png">
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Chapter_3/Task_3_14.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_9/Task_9_4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+=======
+    <entry file="file://$PROJECT_DIR$/Chapter_29/Task_29_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+>>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+>>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
           <folding />
         </state>
       </provider>

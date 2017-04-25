@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gdr/Git/GDR/ITMO/SystemSoftware/Chapter_9/Task_9_2.cpp
+iostream
+-
+zconf.h
+-
+
