@@ -1,34 +1,76 @@
-<<<<<<< HEAD
-/opt/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/gdr/Git/GDR/ITMO/SystemSoftware
-=======
 /Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/GDR/Git/GDR/ITMO/SystemSoftware
+-- Source Task_11_10
 -- Source Task_11_2
+-- Source Task_11_4
+-- Source Task_11_6
+-- Source Task_11_8
+-- Source Task_12_2
+-- Source Task_13_2
+-- Source Task_13_4
+-- Source Task_13_6
+-- Source Task_14_10
+-- Source Task_14_12
+-- Source Task_14_2
+-- Source Task_14_4
+-- Source Task_14_6
+-- Source Task_14_8
 -- Source Task_15_2
+-- Source Task_15_4
+-- Source Task_15_6
+-- Source Task_18_2
+-- Source Task_18_4
+-- Source Task_18_6
+-- Source Task_20_2
+-- Source Task_20_4
+-- Source Task_20_6
+-- Source Task_20_8
 -- Source Task_22_2
 -- Source Task_22_4
+-- Source Task_23_2
+-- Source Task_23_4
+-- Source Task_23_6
+-- Source Task_23_8
+-- Source Task_24_10
+-- Source Task_24_2
+-- Source Task_24_4
+-- Source Task_24_6
+-- Source Task_24_8
 -- Source Task_25_2
 -- Source Task_26_2
 -- Source Task_28_2
+-- Source Task_28_4
+-- Source Task_28_6
 -- Source Task_29_2
+-- Source Task_29_4
+-- Source Task_29_6
 -- Source Task_3_10
 -- Source Task_3_12
->>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+-- Source Task_3_14
+-- Source Task_3_16
+-- Source Task_3_2
+-- Source Task_3_4
 -- Source Task_3_6
 -- Source Task_3_8
 -- Source Task_4_2
 -- Source Task_4_4
+-- Source Task_5_10
 -- Source Task_5_2
 -- Source Task_5_4
+-- Source Task_5_6
+-- Source Task_5_8
+-- Source Task_6_10
 -- Source Task_6_12
 -- Source Task_6_2
 -- Source Task_6_4
 -- Source Task_6_6
-<<<<<<< HEAD
+-- Source Task_6_8
+-- Source Task_7_2
+-- Source Task_7_4
+-- Source Task_9_10
 -- Source Task_9_2
 -- Source Task_9_4
-=======
--- Source Task_6_8
->>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+-- Source Task_9_6
+-- Source Task_9_8
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug

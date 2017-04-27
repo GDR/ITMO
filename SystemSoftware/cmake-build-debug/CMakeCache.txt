@@ -135,11 +135,7 @@ CMAKE_OSX_DEPLOYMENT_TARGET:STRING=
 CMAKE_OSX_SYSROOT:PATH=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk
 
 //Value Computed by CMake
-<<<<<<< HEAD
-CMAKE_PROJECT_NAME:STATIC=Task_9_4
-=======
-CMAKE_PROJECT_NAME:STATIC=Task_6_8
->>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
+CMAKE_PROJECT_NAME:STATIC=Task_9_8
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib
@@ -194,16 +190,154 @@ CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 ProcessorCount_cmd_sysctl:FILEPATH=/usr/sbin/sysctl
 
 //Value Computed by CMake
+Task_11_10_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_11_10_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
 Task_11_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
 
 //Value Computed by CMake
 Task_11_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
 
 //Value Computed by CMake
+Task_11_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_11_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_11_6_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_11_6_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_11_8_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_11_8_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_12_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_12_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_13_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_13_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_13_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_13_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_13_6_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_13_6_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_14_10_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_14_10_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_14_12_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_14_12_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_14_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_14_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_14_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_14_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_14_6_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_14_6_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_14_8_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_14_8_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
 Task_15_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
 
 //Value Computed by CMake
 Task_15_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_15_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_15_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_15_6_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_15_6_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_18_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_18_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_18_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_18_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_18_6_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_18_6_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_20_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_20_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_20_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_20_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_20_6_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_20_6_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_20_8_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_20_8_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
 
 //Value Computed by CMake
 Task_22_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
@@ -216,6 +350,60 @@ Task_22_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-d
 
 //Value Computed by CMake
 Task_22_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_23_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_23_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_23_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_23_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_23_6_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_23_6_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_23_8_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_23_8_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_24_10_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_24_10_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_24_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_24_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_24_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_24_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_24_6_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_24_6_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_24_8_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_24_8_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
 
 //Value Computed by CMake
 Task_25_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
@@ -236,10 +424,34 @@ Task_28_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-d
 Task_28_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
 
 //Value Computed by CMake
+Task_28_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_28_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_28_6_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_28_6_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
 Task_29_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
 
 //Value Computed by CMake
 Task_29_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_29_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_29_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_29_6_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_29_6_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
 
 //Value Computed by CMake
 Task_3_10_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
@@ -252,6 +464,30 @@ Task_3_12_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-d
 
 //Value Computed by CMake
 Task_3_12_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_3_14_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_3_14_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_3_16_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_3_16_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_3_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_3_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_3_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_3_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
 
 //Value Computed by CMake
 Task_3_6_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
@@ -278,6 +514,12 @@ Task_4_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-de
 Task_4_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
 
 //Value Computed by CMake
+Task_5_10_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_5_10_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
 Task_5_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
 
 //Value Computed by CMake
@@ -288,6 +530,24 @@ Task_5_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-de
 
 //Value Computed by CMake
 Task_5_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_5_6_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_5_6_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_5_8_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_5_8_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_6_10_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_6_10_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
 
 //Value Computed by CMake
 Task_6_12_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
@@ -320,23 +580,49 @@ Task_6_8_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-de
 Task_6_8_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
 
 //Value Computed by CMake
-<<<<<<< HEAD
-Task_9_2_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+Task_7_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
 
 //Value Computed by CMake
-Task_9_2_SOURCE_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware
+Task_7_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
 
 //Value Computed by CMake
-Task_9_4_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+Task_7_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
 
 //Value Computed by CMake
-Task_9_4_SOURCE_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware
+Task_7_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
 
 //Value Computed by CMake
-task_4_2_BINARY_DIR:STATIC=/home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
-=======
+Task_9_10_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_9_10_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_9_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_9_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_9_4_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_9_4_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_9_6_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_9_6_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
+Task_9_8_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+
+//Value Computed by CMake
+Task_9_8_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
+
+//Value Computed by CMake
 task_4_2_BINARY_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
->>>>>>> e40b8dbd021805330fe3c6721bb8e5ca17700595
 
 //Value Computed by CMake
 task_4_2_SOURCE_DIR:STATIC=/Users/GDR/Git/GDR/ITMO/SystemSoftware
