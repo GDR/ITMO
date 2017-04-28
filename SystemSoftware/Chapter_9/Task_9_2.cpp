@@ -1,9 +1,3 @@
-//
-<<<<<<< HEAD
-// Created by Damir Garifullin on 25/04/2017.
-//
-
-=======
 // Created by gdr on 4/22/17.
 //
 
@@ -22,4 +16,3 @@ int main() {
             cout << idx++ << ": " << temp << '\n';
     }
 }
->>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d

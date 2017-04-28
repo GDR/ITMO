@@ -1,9 +1,4 @@
-//
-<<<<<<< HEAD
-// Created by Damir Garifullin on 25/04/2017.
-//
 
-=======
 // Created by gdr on 4/23/17.
 //
 
@@ -43,4 +38,3 @@ int main() {
         }
     }
 }
->>>>>>> 73b6239cf7ae7ed95c72a07794c9922c67ed850d
