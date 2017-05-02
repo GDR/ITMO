@@ -1,19 +1,61 @@
-/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/GDR/Git/GDR/ITMO/SystemSoftware
+/opt/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/gdr/Git/GDR/ITMO/SystemSoftware
+-- The C compiler identification is GNU 6.3.1
+-- The CXX compiler identification is GNU 6.3.1
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Source Task_3_02
+-- Source Task_3_04
+-- Source Task_3_06
+-- Source Task_3_08
+-- Source Task_3_10
+-- Source Task_3_12
+-- Source Task_3_14
+-- Source Task_3_16
+-- Source Task_4_2
+-- Source Task_4_4
+-- Source Task_5_02
+-- Source Task_5_04
+-- Source Task_5_06
+-- Source Task_5_08
+-- Source Task_5_10
+-- Source Task_6_02
+-- Source Task_6_04
+-- Source Task_6_06
+-- Source Task_6_08
+-- Source Task_6_10
+-- Source Task_6_12
+-- Source Task_7_2
+-- Source Task_7_4
+-- Source Task_9_02
+-- Source Task_9_04
+-- Source Task_9_06
+-- Source Task_9_08
+-- Source Task_9_10
+-- Source Task_11_02
+-- Source Task_11_04
+-- Source Task_11_06
+-- Source Task_11_08
 -- Source Task_11_10
--- Source Task_11_2
--- Source Task_11_4
--- Source Task_11_6
--- Source Task_11_8
 -- Source Task_12_2
 -- Source Task_13_2
 -- Source Task_13_4
 -- Source Task_13_6
+-- Source Task_14_02
+-- Source Task_14_04
+-- Source Task_14_06
+-- Source Task_14_08
 -- Source Task_14_10
 -- Source Task_14_12
--- Source Task_14_2
--- Source Task_14_4
--- Source Task_14_6
--- Source Task_14_8
 -- Source Task_15_2
 -- Source Task_15_4
 -- Source Task_15_6
@@ -30,11 +72,11 @@
 -- Source Task_23_4
 -- Source Task_23_6
 -- Source Task_23_8
+-- Source Task_24_02
+-- Source Task_24_04
+-- Source Task_24_06
+-- Source Task_24_08
 -- Source Task_24_10
--- Source Task_24_2
--- Source Task_24_4
--- Source Task_24_6
--- Source Task_24_8
 -- Source Task_25_2
 -- Source Task_26_2
 -- Source Task_28_2
@@ -43,34 +85,6 @@
 -- Source Task_29_2
 -- Source Task_29_4
 -- Source Task_29_6
--- Source Task_3_10
--- Source Task_3_12
--- Source Task_3_14
--- Source Task_3_16
--- Source Task_3_2
--- Source Task_3_4
--- Source Task_3_6
--- Source Task_3_8
--- Source Task_4_2
--- Source Task_4_4
--- Source Task_5_10
--- Source Task_5_2
--- Source Task_5_4
--- Source Task_5_6
--- Source Task_5_8
--- Source Task_6_10
--- Source Task_6_12
--- Source Task_6_2
--- Source Task_6_4
--- Source Task_6_6
--- Source Task_6_8
--- Source Task_7_2
--- Source Task_7_4
--- Source Task_9_10
--- Source Task_9_2
--- Source Task_9_4
--- Source Task_9_6
--- Source Task_9_8
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/GDR/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
+-- Build files have been written to: /home/gdr/Git/GDR/ITMO/SystemSoftware/cmake-build-debug
